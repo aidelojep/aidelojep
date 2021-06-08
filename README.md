@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 
 - 😄 
-- ⚡ Fun fact: I love Chess, Travelling around the World, meeting people and making friends, good music, positive enegry.
+- ⚡ Fun fact: I love Chess, Travelling around the World, meeting people and making friends, good music, positive energy.
 -->
