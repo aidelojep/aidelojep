@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on JAVA, PYTHON and JavaScript Languages.
+- 🔭 I’m currently working on JAVA, PYTHON and C# Languages.
 - 🌱 I’m currently learning mySQL, noSQL, Cloud Computing, Machine Learning, Artificial Intelligence and Data Science.
 - 👯 I’m looking to collaborate on real life projects.
 - 🤔 I’m looking for help with C#, C++, embedded systems. 
