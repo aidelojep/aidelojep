@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JAVA, PYTHON and C# Languages.
-- 🌱 I’m currently learning mySQL, noSQL, Cloud Computing, Machine Learning, Artificial Intelligence and Data Science.
+- 🌱 I’m having fun with SQL(MySQL,PostGRE) NoSQL(Mongo DB,Fauna DB) Cloud Computing (AWS, Azure) Machine Learning, Artificial Intelligence.
 - 👯 I’m looking to collaborate on real life projects.
 - 💬 Ask me about Java/SPRINGBOOT, Python/Django, CSharp(ASP.NET) and JavaScript(REACT FRAMEWORK).
 - 📫 How to reach me: 
