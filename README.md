@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="peter-aideloje-64aab6116" data-version="v1"><a class="badge-base__link LI-simple-link" href="//dev.to/aidelojep">Peter Aideloje dev.TO BLOG</a></div>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="peter-aideloje-64aab6116" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://medium.com/@aidelojepeter123">Peter Aideloje MEDIUM HANDLE</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="peter-aideloje-64aab6116" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://aidelojep.medium.com/">Peter Aideloje MEDIUM HANDLE</a></div>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="peter-aideloje-64aab6116" data-version="v1"><a class="badge-base__link LI-simple-link" href="//twitter.com/PAideloje">Catch Peter Aideloje on TWITTER</a></div>
 
