@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JAVA/KOTLIN, JAVASCRIPT/TYPESCRIPT, DART(FLUTTER) and C# Languages.
-- 🌱 I’m having fun with SQL(MySQL,PostgreSQL) NoSQL(Mongo DB,Fauna DB) Cloud Computing (AWS, Azure,Oracle DB,Google Cloud) Machine Learning, Artificial Intelligence and Visualization with Arctype.
+- 🌱 I’m having fun with SQL(MySQL,PostgreSQL) NoSQL(Mongo DB,Fauna DB) Cloud Computing (AWS, Azure,Oracle DB,Google Cloud), DevOPs and Visualization with Arctype.
 - 👯 I’m looking to collaborate on real life projects.
 - 💬 Ask me about Java/SPRINGBOOT, Kotlin(Android Studio), CSharp(ASP.NET) and JavaScript(VUE.JS, REACT FRAMEWORK).
 - 📫 How to reach me: 
