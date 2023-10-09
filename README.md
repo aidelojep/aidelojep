@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Technical Documentation as a Senior Consultant.
 - I write code and build interesting projects with languages like Java/SpringBoot, JavaScript, TypeScript/React, Angular, Python/Django, Solidity/Remix IDE (Smart Contracts), and other OpenAI tools.
 
