@@ -3,10 +3,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on JAVA (SPRINGBOOT FRAMEWORK), JAVASCRIPT/TYPESCRIPT, C# and SOLIDITY PROGRAMMING Languages.
-- 🌱 I’m having fun with SQL(MySQL,PostgreSQL) NoSQL(Mongo DB,Fauna DB) Cloud Computing (AWS, Azure,Oracle DB,Google Cloud), DevOPs and Visualization with Arctype.
-- 👯 I’m looking to contribute more on open source projects.
-- 💬 Ask me about Java/SPRINGBOOT, Kotlin(Android Studio), CSharp(ASP.NET) and JavaScript(VUE.JS, REACT FRAMEWORK).
+- 🔭 I’m currently working on Technical Documentation as a Senior Consultant.
+- I write code and build interesting projects with languages like Java/SpringBoot, JavaScript, TypeScript/React, Angular, Python/Django, Solidity/Remix IDE (Smart Contracts), and other OpenAI tools.
+
+- 🌱 When required, I like to have fun with SQL(MySQL, PostgreSQL) NoSQL(Mongo DB, Fauna DB) Cloud Computing (AWS, Azure, Oracle DB, Google Cloud), and DevOps concepts.
+
+- 👯 I’m looking to contribute more to open-source projects.
+
+- 💬 Ask me about **TECHNICAL DOCUMENTATION** : Improving your API integration and Developer's experience.
+
 - 📫 How to reach me: 
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="peter-aideloje-64aab6116" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/peter-aideloje-64aab6116?trk=profile-badge">Peter Aideloje LINKEDIN HANDLE</a></div>
@@ -22,10 +27,7 @@ Here are some ideas to get you started:
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) ACTIVE API HANDLE]
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Ferrari</title><path d=""/></svg>https://simpleicons.org/
-
-
 
 - 😄 
-- ⚡ Fun fact: I love Chess, Travelling around the World, meeting people and making friends, good music, positive energy.
+- ⚡ Fun fact: I love Chess, traveling across the globe, meeting people, good music, and positive energy.
 -->
