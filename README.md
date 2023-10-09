@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Technical Documentation as a Senior Consultant.
 - I write code and build interesting projects with languages like Java/SpringBoot, JavaScript, TypeScript/React, Angular, Python/Django, Solidity/Remix IDE (Smart Contracts), and other OpenAI tools.
 
-- 🌱 When required, I like to have fun with SQL(MySQL, PostgreSQL) NoSQL(Mongo DB, Fauna DB) Cloud Computing (AWS, Azure, Oracle DB, Google Cloud), and DevOps concepts.
+- 🌱 When required, I like to have fun with SQL(MySQL, PostgreSQL) NoSQL(Mongo DB, Fauna DB) Cloud Computing (AWS), and DevOps concepts.
 
 - 👯 I’m looking to contribute more to open-source projects.
 
