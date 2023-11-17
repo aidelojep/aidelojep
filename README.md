@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to contribute more to open-source projects.
 
-- 💬 Ask me about **TECHNICAL DOCUMENTATION** : Improving your API integration and Developer's experience.
+- 💬 Ask me about **TECHNICAL DOCUMENTATION** : Improving your API Integration and Developer's Experience.
 
 - 📫 How to reach me: 
 
